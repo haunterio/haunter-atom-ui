@@ -9,6 +9,7 @@ Pokémon.
 
 Forked from [Atom Dark UI](https://github.com/atom/atom-dark-ui).
 
-![Haunter Atom UI](https://cloud.githubusercontent.com/assets/2191604/5424853/7bcf0bb2-82cf-11e4-996d-5ce5c74bcad8.png)
+![Haunter Atom UI](https://cloud.githubusercontent.com/assets/2191604/5542776/aa235720-8ab8-11e4-8124-b39a8ae971d7.png)
+
 
 There's also a matching [haunter syntax theme](https://github.com/haunterio/haunter-atom-syntax).
