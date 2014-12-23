@@ -1,5 +1,9 @@
 # Haunter UI Theme
 
+[![Version](https://img.shields.io/apm/v/haunter-ui.svg)](https://atom.io/packages/haunter-ui)
+[![Downloads](https://img.shields.io/apm/dm/haunter-ui.svg)](https://atom.io/packages/haunter-ui)
+[![License](https://img.shields.io/apm/l/haunter-ui.svg)](https://github.com/haunterio/haunter-atom-ui/blob/master/LICENSE.md)
+
 Atom UI theme using dark purples and pinks primarily, inspired by the titular
 Pokémon.
 
