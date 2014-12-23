@@ -6,3 +6,7 @@
 
 ## 0.1.1 - Pane color fix
 * Made the pane focus color more distinguishable from the sidebar
+
+## 0.2.0 - More colors, apm badges
+* Replaced some grays with pinks and purples
+* Add apm badges to the README
